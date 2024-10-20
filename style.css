@@ -31,6 +31,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: white;
     background-color: #1F2937;
+    margin: 0;
 }
 
 .one {
@@ -85,7 +86,7 @@ button.signup {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 50px ;
+    padding: 50px;
 }
 
 .title {
